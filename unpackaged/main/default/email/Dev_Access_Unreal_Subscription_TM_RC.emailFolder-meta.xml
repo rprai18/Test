@@ -2,7 +2,7 @@
 <EmailTemplateFolder xmlns="http://soap.sforce.com/2006/04/metadata">
     <folderShares>
         <accessLevel>Manage</accessLevel>
-        <sharedTo>Developer_Access_Group</sharedTo>
+        <sharedTo>Developer_Accesswwwwwwwwwwwwwwwwww_Group</sharedTo>
         <sharedToType>Group</sharedToType>
     </folderShares>
     <name>Dev-Access: Unreal Subscription, TM, RC</name>
